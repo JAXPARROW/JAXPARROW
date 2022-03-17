@@ -26,7 +26,7 @@ I am a Jackson Linus, Data Analyst Engineer from Tanzania . I am interested in p
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Sublime-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 
 
