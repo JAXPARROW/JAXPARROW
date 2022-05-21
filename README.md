@@ -18,7 +18,7 @@
 
 ### Hello there 👋,
 
-I am a Jackson Linus, Data Analyst and Engineer from Tanzania . I am interested in python (Django), write about and developing and contributing to open source software solutions for and with JavaScript, TypeScript, AngularJs and Python(Django).
+I am a Jackson Linus, Data Analyst and Engineer from Tanzania . I am interested in python (Django), write about and developing and contributing to open source software solutions coded using JavaScript, TypeScript, AngularJs and Python(Django).
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
